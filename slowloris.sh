@@ -4,7 +4,7 @@
 #============================================================================================================
 #	
 #	Welcome To SlowLoris_Attacker V 2.0
-#	SlowLoris_Attacker By : Mr. H4CK3R
+#	SlowLoris_Attacker By : Mr.H4CK3R
 #	=======================================
 #	My Facebook Account ::-
 #	https://web.facebook.com/Talaban.Salam1
@@ -40,7 +40,7 @@ clear
 echo "" && echo "$yellow"
 echo "Welcome to$red SlowLoris Attacker V 2.0"
 echo "$yellow" && echo "" && sleep 0.5
-echo "SlowLoris Attacker By :$red Talaban"
+echo "SlowLoris Attacker By :$red Mr.H4CK3R"
 echo "" && echo "$yellow" && sleep 0.5
 read -p "Please Enter A domain Exp, www.google.com or IP -$red " "Domain";
 if [ -z "$Domain" ]; then
